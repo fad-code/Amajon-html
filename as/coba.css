@@ -1,0 +1,90 @@
+.kucing{width:120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;}
+
+    .oliver-cat{display: block;}
+    .gambar-kucing {display: inline-block;
+    margin-right: 10px;}
+
+    .keterangan{display: inline-block;
+    vertical-align: top;}
+
+    .cat,.pop{color: #cccccc;}
+    
+    .button{display: inline-block;
+    margin-left:202px; ;
+    vertical-align: top;
+    margin-top: 50px;}
+  
+
+    .follow{background-color: blue;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 5px 16px;
+    border-radius: 4px;
+    cursor: pointer;}
+    .follow:hover{transform:rotate(10px)}
+    .follow:active{transform: translateY(2px);}
+
+    .anaku{width:120px;
+        height: 120px;
+        border-radius: 50%;
+        object-fit: cover;}
+    
+        .anaku-ya{display: block;}
+        .gambar-anaku {display: inline-block;
+        margin-right: 10px;}
+    
+        .keterangan-anak{display: inline-block;
+        vertical-align: top;}
+    
+        .the-anak,.pop2{color: #cccccc;}
+        
+        .button2{display: inline-block;
+        margin-left:200px; ;
+        vertical-align: top;
+        margin-top: 50px;}
+      
+    
+        .follow2{background-color: blue;
+        color: white;
+        font-weight: bold;
+        border: none;
+        padding: 5px 16px;
+        border-radius: 4px;
+        cursor: pointer;}
+        .follow2:hover{transform:rotate(10px)}
+        .follow2:active{transform: translateY(2px);}
+
+        .images{width:120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;}
+        
+            .images-ya{display:flex;}
+            .gambar-images {display: inline-block;
+            margin-right: 10px;}
+        
+            .keterangan-images{display: inline-block;
+            vertical-align: top;
+            margin-left: 16px;}
+        
+            .the-images,.pop3{color: #cccccc;}
+            
+            .button3{display: inline-block;
+            margin-left:194.5px; ;
+            vertical-align: top;
+            margin-top: 50px;}
+          
+        
+            .follow3{background-color: blue;
+            color: white;
+            font-weight: bold;
+            border: none;
+            padding: 5px 16px;
+            border-radius: 4px;
+            cursor: pointer;}
+            .follow3:hover{transform:rotate(10px)}
+            .follow3:active{transform: translateY(2px);}  
