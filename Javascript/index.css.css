@@ -1,0 +1,27 @@
+body {
+        background-color: black;
+}
+h1 {color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+   color: white;
+   font-weight: bold;
+
+}
+
+img{
+    height: 6vw;
+}
+
+button{margin-right: 10px;}
+
+.move-icon {
+        width: 50px;
+        height: 50px;
+        object-fit: contain;
+        margin: 5px;
+}
+span{
+        color: white;
+}
