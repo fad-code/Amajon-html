@@ -1,5 +1,6 @@
 let productsHTML = '';
- 
+import {cart} from '../data/cart.js';
+import { products } from '../data/products.js';
  products.forEach ((product)=> {
     //Menampilkan gambar bintang rating, dikali 10 karena filenya 45.png, bukan 4.5.png//
     productsHTML+= `<div class="product-container">
@@ -26,7 +27,7 @@ let productsHTML = '';
           </div>
 
           <div class="product-quantity-container">
-            <select>
+            <select class = "js-quantity-selector-${product.id}">
               <option selected value="1">1</option>
               <option value="2">2</option>
               <option value="3">3</option>
